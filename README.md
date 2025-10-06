@@ -1,6 +1,6 @@
 <!-- Banner / Intro -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AzaKhaled/AzaKhaled/main/AZA.png" width="200px" alt="Azza Khaled GIF"/>
+  <img src="[https://raw.githubusercontent.com/AzaKhaled/AzaKhaled/main/AZA.png](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)" width="200px" alt="Azza Khaled GIF"/>
 </p>
 
 <h1 align="center">Hey there 👋, I'm Azza Khaled</h1>
