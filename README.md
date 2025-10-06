@@ -23,7 +23,8 @@
 
 ### 🧠 Skills
 
-- Dart • OOP  
+- Dart
+- OOP  
 - Flutter  
 - Firebase (Authentication, Firestore)  
 - Supabase  
