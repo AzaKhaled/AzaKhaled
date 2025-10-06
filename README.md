@@ -7,7 +7,7 @@
 <h3 align="center">Flutter Developer from Egypt 🇪🇬</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/azza-khaled-4b2389219">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/azza-khaled-4b2389219/">LinkedIn</a> •
   <a href="mailto:azakhalid813@gmail.com">Email</a>
 </p>
 
